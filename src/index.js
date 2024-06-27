@@ -21,7 +21,7 @@ const dockerHub = "https://registry-1.docker.io";
 // };
 
 const routes = {
-  "${workername}.${username}.workers.dev/": "https://registry-1.docker.io",
+  "cloudflare-docker-proxy.realzuanzuan.workers.dev": "https://registry-1.docker.io",
 };
 
 function routeByHosts(host) {
