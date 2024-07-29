@@ -15,6 +15,7 @@ const routes = {
   "k8s.rsuxwvilc.top": "https://registry.k8s.io",
   "ghcr.rsuxwvilc.top": "https://ghcr.io",
   "cloudsmith.rsuxwvilc.top": "https://docker.cloudsmith.io",
+  "ecr.rsuxwvilc.so": "public.ecr.aws",
 };
 
 // const routes = {
